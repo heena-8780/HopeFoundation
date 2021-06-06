@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e6a33df-9fb5-4ca1-960e-fd1f31445b11" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/about-us-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/about-us.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/causes/cause-culture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/causes/cause-education.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/causes/cause-hunger.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/causes/cause-rights.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/causes/slider/cause-slider-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/causes/slider/cause-slider-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/heading-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/charity (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/help-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/lifechartiabletrust.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/logo-removebg-preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/logo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/make-donation-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/our-mission-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/programs-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/zoom-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/slider/hs4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/slider/hs5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/slider/hs6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/slider/hs7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/slider/hs8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/sponsors/bus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/sponsors/cred.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/sponsors/feedFoundation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/sponsors/flipkart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/sponsors/myntra.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/sponsors/nasscom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/sponsors/one-world.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/sponsors/razorpay.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/sponsors/sponsor-taous.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/sponsors/sponsor-unilever.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/sponsors/wikimedia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/sponsors/xiaomi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1taCVtmYt6Qv8zX4Opm45SgDlw4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e6a33df-9fb5-4ca1-960e-fd1f31445b11" name="Default Changelist" comment="" />
+      <created>1622997842963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622997842963</updated>
+      <workItem from="1622997845852" duration="1000" />
+    </task>
+    <servers />
+  </component>
+</project>

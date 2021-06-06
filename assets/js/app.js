@@ -1,4 +1,4 @@
-// Initialize Firebase (ADD YOUR OWN DATA)
+// Initialize Firebase 
 var config = {
     apiKey: "AIzaSyBxNAKWqdMELyhuBvnf9PvD5xeQ0Chg2cA",
     authDomain: "hopefoundation-6995c.firebaseapp.com",

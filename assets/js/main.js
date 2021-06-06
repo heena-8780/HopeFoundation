@@ -2,8 +2,7 @@
 $(function(){
 
 
-	/*  Gallery lightBox
- 	================================================*/ 
+	/*  Gallery lightBox */
 
  	if( $(".lightbox").length > 0 ) {
 
@@ -11,8 +10,7 @@ $(function(){
 		
 	}
 
-	/*  Owl carousel
- 	================================================*/ 
+	/*  Owl carousel */ 
 
  	if( $(".owl-carousel").length > 0 ) {
 
@@ -41,8 +39,7 @@ $(function(){
 	}
 
 
-	 /* Contact form ajax Handler
-    ================================================*/
+	 /* Contact form ajax Handler */
 
     $(".ajax-form").on('submit', function() {
     	var form = $(this);
@@ -87,9 +84,7 @@ $(function(){
 
 
     /*
-	On scroll animations
-	================================================
-	*/
+	On scroll animations */
 
 
     var $elems = $('.animate-onscroll');
@@ -105,9 +100,8 @@ $(function(){
 
     function animate_elems() {
 
-	    wintop = $(window).scrollTop(); // calculate distance from top of window
-	 
-	    // loop through each item to check when it animates
+	    wintop = $(window).scrollTop(); 
+
 	    $elems.each(function(){
 	    	
 	      $elm = $(this);
@@ -125,18 +119,12 @@ $(function(){
 
 	  } // end animate_elems()
 
-	
-
-
- 	/*  Google map Script
- 	====================================================*/ 
 
 	function initMap() {
 
   		
-  		var mapLatitude = 31.423308 ; // Google map latitude 
-  		var mapLongitude = -8.075145 ; // Google map Longitude  
-
+  		var mapLatitude = 31.423308 ; 
+  		var mapLongitude = -8.075145 ; 
 	    var myLatlng = new google.maps.LatLng( mapLatitude, mapLongitude );
 
 	    var mapOptions = {
@@ -156,10 +144,7 @@ $(function(){
 	      
 	    });
 
-	    // To add the marker to the map, call setMap();
 	    marker.setMap(map);
-
-	    // Map Custom style
 	    var styles = [
 		  {
 		    stylers: [
