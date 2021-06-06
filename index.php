@@ -1,15 +1,14 @@
 <?php
-if(!empty($_POST["send"])) {
-	$name = $_POST["name"];
-	$email = $_POST["email"];
-	$message = $_POST["message"];
-
-	$toEmail = "heena.kasali.10@gmail.com";
-	$mailHeaders = "From: " . $name . "<". $email .">\r\n";
-	if(mail($toEmail, $subject, $content, $mailHeaders)) {
-	    $message = "Your contact information is received successfully.";
-	    $type = "success";
-	}
+$name = $_POST['name'];
+$email = $_POST['email'];
+$message = $_POST['message'];
+$to = "heena.kasali.10@gmail.com";
+$subject = "Mail from Hope Foundation";
+$txt = "Name = ". $name . "\r\n Email = " . $email . "\r\n Message = " . $message;
+$headers="From: noreply@hopefoundation.com";
+if($email!=NULL){
+	mail($to,$subject,$txt,$headers);
 }
-require_once "contact-view.php";
+//redirect
+header("Location:index.html")
 ?>

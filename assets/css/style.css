@@ -15,6 +15,15 @@ body {
   color: #115c9b;
 }
 
+.alert{
+  text-align: center;
+  padding:10px;
+  background:#79c879;
+  color:#fff;
+  margin-bottom:10px;
+  display:none;
+}
+
 h1{
   /* font-family: "Dosis", sans-serif; */
   /* font-family: 'Odibee Sans', cursive; */
@@ -80,14 +89,24 @@ a:hover, a:focus, a:active {
 .navbar-main .navbar-brand {
   border-bottom: none !important;
 }
-.navbar-main a:hover,
+
+.navbar-main a:hover .logo,
+.navbar-main a:active .logo ,
+.navbar-main a:focus .logo ,
+.navbar-main a.is-active .logo {
+  background: none !important;
+  /* color: inherit; */
+  border-bottom: none;
+}
+
+/* .navbar-main a:hover,
 .navbar-main a:active,
 .navbar-main a:focus,
 .navbar-main a.is-active {
   background: none !important;
   color: inherit;
   border-bottom: 2px solid #fff;
-}
+} */
 .navbar-main .submenu {
   position: absolute;
   list-style: none;
