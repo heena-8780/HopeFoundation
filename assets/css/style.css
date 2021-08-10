@@ -194,6 +194,7 @@ a:hover, a:focus, a:active {
 }
 .about-us-col .col-title {
   text-transform: uppercase;
+  font-size: 20px;
 }
 .about-us-col .col-details {
   text-align: center;
